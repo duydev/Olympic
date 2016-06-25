@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1464881612 source:h:\nhatrang\tile\main.cpp
+	<stdio.h>
+	<algorithm>
+
