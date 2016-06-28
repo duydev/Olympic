@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1467121460 source:h:\nhatrang\vasu\main.cpp
+	<stdio.h>
+	<iostream>
+	<algorithm>
+

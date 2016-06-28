@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1467109712 source:h:\nhatrang\nhga\main.cpp
+	<stdio.h>
+	<iostream>
+	<algorithm>
+
